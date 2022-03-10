@@ -63,6 +63,6 @@ bundle exec ruby src/app.rb
 
 ## License :unlock:
 
-Copyright © 2021 [Matias Chiodo](https://github.com/matiaschiodo)
+Copyright © 2022 [Matias Chiodo](https://github.com/matiaschiodo)
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed
